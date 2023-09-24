@@ -1,22 +1,18 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        map<char,int> mp;
-        int left=0,maxCount=0,res=0;
-        for(int right=0;right<s.size();right++){
-            mp[s[right]]++;
-            maxCount=max(maxCount,mp[s[right]]);
-            if(right-left+1-maxCount>k){
-                mp[s[left]]--;
-                left++;
-                if(mp[left]==0){
-                    mp.erase(mp[left]);
-                }
+        int i=0;
+        int j=0;
+        vector<int>v(27,0);int ma=0;
+        while(j<s.length()){
+            v[s[j]-'A']++;
+            if(j-i+1-*max_element(v.begin(),v.end())>k){
+                v[s[i]-'A']--;
+                i++;
             }
-            else{
-                res=max(res,right-left+1);
-            }
+            ma=max(ma,j-i+1);
+            j++;
         }
-        return res;
+    return ma;
     }
 };
