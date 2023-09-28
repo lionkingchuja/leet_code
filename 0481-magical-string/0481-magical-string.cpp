@@ -1,19 +1,23 @@
 class Solution {
 public:
     int magicalString(int n) {
-        string s="122";
         int index=2;
-        while(s.size()<n ){
-            int repeat=s[index]-'0';
-            char next=s.back() ^ 3;
-            s +=string(repeat,next);
+        string s="122";
+        int k=2;
+        while(s.length() <n){
+            int a=s[index]-'0';
+            char x=('3'-s[k])+'0';
+            while(a>0){
+                k++;
+                s.push_back(x);
+                a--;
+            }
             index++;
         }
-        // int cnt=0;
-        // for(int i=0;i<s.length();i++){
-        //     if(s[i]=='1') cnt++;
-        // }
-    return count(s.begin(),s.begin()+n,'1');
-    //return cnt;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='1') ans++;
+        }
+        return ans;
     }
 };
