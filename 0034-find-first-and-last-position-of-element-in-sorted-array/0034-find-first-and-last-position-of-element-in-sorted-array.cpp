@@ -1,25 +1,36 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<int>v;
-        for(int i=0;i<n;i++){
-            if(target==nums[i]){
-                v.push_back(i);
+    int binary_search(vector<int>&nums,int target,bool flag){
+        int l=0;
+        int r=nums.size()-1;
+        int index=-1;        
+        while(l<=r){
+            int mid=(l+r)/2;
+            if(nums[mid]==target){
+                index=mid;
+                if(flag) r=mid-1;
+                else l=mid+1;
+            }
+            else if(nums[mid]> target){
+                r=mid-1;
+            }
+            else if(nums[mid] <target){
+                l=mid+1;
             }
         }
-        vector<int>ans(2,-1);
-        if(v.size()==0){
-            ans[0]=-1;ans[1]=-1;
+        return index;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int ans=binary_search(nums,target,true);
+        int ans1=binary_search(nums,target,false);
+        if(ans==-1){
+            return{-1,-1};
         }
-        else if(v.size()==1){
-            ans[0]=v[0];
-            ans[1]=v[0];
+        else if(ans==ans1){
+            return{ans,ans};
         }
-        else {
-            ans[0]=v[0];
-            ans[1]=v[v.size()-1];
+        else{
+            return{ans,ans1};
         }
-        return ans;
     }
 };
