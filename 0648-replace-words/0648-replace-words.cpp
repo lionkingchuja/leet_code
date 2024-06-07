@@ -1,57 +1,56 @@
-class trie {
+class trie{
 public:
-    bool terminal;
     trie* next[26];
-    trie() {
-        terminal = false;
-        for (int i = 0; i < 26; i++) next[i] = NULL;
+    bool flag;
+    trie(){
+        flag=false;
+        for(int i=0;i<26;i++) next[i]=NULL;
     }
 };
-class Solution {
-    trie* base = new trie();
 
-    void insert(string word) {
-        int len = word.size();
-        trie* iter = base;
-        for (int i = 0; i < len; i++) {
-            if (!iter->next[word[i] - 97]) {
-                iter->next[word[i] - 97] = new trie();
-            }
-            iter = iter->next[word[i] - 97];
+class Solution {
+    trie* root=new trie(); //Root node of the trie
+    public:
+    void insert(string &word){
+        trie* curr=root;
+        for(char c:word){
+            if(!curr->next[c-'a']) curr->next[c-'a']=new trie();
+            curr=curr->next[c-'a'];
         }
-        iter->terminal = true;
+        curr->flag=true;
     }
-    string search(string &word) {
-        int len = word.size();
-        string cu;
-        trie* iter = base;
-        for (int i = 0; i < len; i++) {
-            if (!iter->next[word[i] - 97]) {
-                if (iter->terminal) return cu;
+
+    string search(string &word){
+        trie* curr=root;
+        string s;
+        for(int i=0;i<word.size();i++){
+            if(!curr->next[word[i]-'a']){
+                if(curr->flag) return s;
                 return word;
             }
-            cu += word[i];
-            iter = iter->next[word[i] - 97];
-            if (iter->terminal) return cu;
+            s +=word[i];
+            curr=curr->next[word[i]-'a'];
+            if(curr->flag) return s;
         }
-        return cu;
+        return s;
     }
-public:
+    public:
     string replaceWords(vector<string>& dictionary, string sentence) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(NULL);
-        string ret, t;
-        for (string i: dictionary) insert(i);
-        for (char i: sentence) {
-            if (i == ' ') {
-                ret += search(t);
-                ret += ' ';
-                t.clear();
-            } else {
-                t += i;
+        string ans,temp;
+        for(auto i:dictionary) insert(i);
+
+        for(auto c:sentence){
+            if(c==' '){
+               ans +=search(temp);
+               ans +=' ';
+               temp.clear();
+            }
+            else{
+                temp +=c;
             }
         }
-        ret += search(t);
-        return ret;
+        ans +=search(temp);
+        
+        return ans;
     }
 };
