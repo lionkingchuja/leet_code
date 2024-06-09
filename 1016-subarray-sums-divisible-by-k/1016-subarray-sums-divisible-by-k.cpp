@@ -9,7 +9,6 @@ public:
             sum +=nums[i];
             int rem=sum % k;
             if(rem <0) rem +=k;
-            cout<<rem<<" "<<sum%k<<endl;
             if(m.find(rem) !=m.end()){
                 ans +=m[rem];
                 m[rem] +=1;
