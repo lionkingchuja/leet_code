@@ -21,6 +21,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/lionkingchuja/leet_code/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/lionkingchuja/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ my code is preserved here for future practices
 | [1044-find-common-characters](https://github.com/lionkingchuja/leet_code/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/lionkingchuja/leet_code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/lionkingchuja/leet_code/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/lionkingchuja/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
@@ -50,6 +52,7 @@ my code is preserved here for future practices
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/lionkingchuja/leet_code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/lionkingchuja/leet_code/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/lionkingchuja/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
