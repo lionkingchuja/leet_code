@@ -7,7 +7,6 @@ public:
         while(sum <=n){
             if(i<nums.size() and nums[i] <= sum) {
                 sum +=nums[i++];
-                cout<<sum<<endl;
             }
             else sum +=sum;
             ans++;
