@@ -11,7 +11,6 @@ public:
             else sum +=sum;
             ans++;
         }
-        cout<<ans<<" "<<i;
         return ans-i;
     }
 };
