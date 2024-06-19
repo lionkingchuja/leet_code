@@ -6,11 +6,11 @@ public:
             temp.push_back({difficulty[i], profit[i]});
         }
         sort(temp.begin(),temp.end());
-        // sort(worker.begin(),worker.end());
+        sort(worker.begin(),worker.end());
         int res=0;
+        int j=0;
+        int ans=0;
         for(auto i:worker){
-            int j=0;
-            int ans=0;
             while(j< worker.size() and i >= temp[j].first){
                 ans =max(ans,temp[j].second);
                 j++;
