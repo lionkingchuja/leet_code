@@ -1,26 +1,33 @@
 class Solution {
 public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
-        int initialSatisfaction = 0;
-        int maxExtraSatisfaction = 0;
-        int currentWindowSatisfaction = 0;
-        
-        for (int i = 0; i < customers.size(); ++i) {
-            if (grumpy[i] == 0) {
-                initialSatisfaction += customers[i];
-            } else if (i < minutes) {
-                currentWindowSatisfaction += customers[i];
+        int n=customers.size();
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(grumpy[i]==0) ans +=customers[i];
+            else grumpy[i] *=customers[i];
+        }
+        //basically find maximum sum of subarray length minutes
+        int i=0;
+        int j=0;
+        int mx=INT_MIN;
+        int sum=0;
+        while(j<n){
+            sum +=grumpy[j];
+            if(j-i+1 < minutes) j++;
+            else if(j-i+1 == minutes){
+                mx=max(sum,mx);
+                j++;
+            }
+            else if(j-i+1 > minutes){
+                sum -=grumpy[i];
+                i++;
+                if(j-i+1 == minutes){
+                    mx=max(sum,mx);
+                }
+                j++;
             }
         }
-        
-        maxExtraSatisfaction = currentWindowSatisfaction;
-        
-        for (int i = minutes; i < customers.size(); ++i) {
-            currentWindowSatisfaction += customers[i] * grumpy[i];
-            currentWindowSatisfaction -= customers[i - minutes] * grumpy[i - minutes];
-            maxExtraSatisfaction = max(maxExtraSatisfaction, currentWindowSatisfaction);
-        }
-        
-        return initialSatisfaction + maxExtraSatisfaction;   
+        return ans+mx;
     }
 };
