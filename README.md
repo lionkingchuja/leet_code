@@ -38,6 +38,7 @@ my code is preserved here for future practices
 | [0853-most-profit-assigning-work](https://github.com/lionkingchuja/leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/lionkingchuja/leet_code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/lionkingchuja/leet_code/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/lionkingchuja/leet_code/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/lionkingchuja/leet_code/tree/master/1138-grumpy-bookstore-owner) |
@@ -61,6 +62,7 @@ my code is preserved here for future practices
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Sorting
 |  |
 | ------- |
@@ -98,5 +100,14 @@ my code is preserved here for future practices
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/lionkingchuja/leet_code/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/1370-count-number-of-nice-subarrays) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
