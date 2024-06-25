@@ -111,3 +111,19 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lionkingchuja/leet_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
