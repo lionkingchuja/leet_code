@@ -26,6 +26,7 @@ my code is preserved here for future practices
 | [0502-ipo](https://github.com/lionkingchuja/leet_code/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/lionkingchuja/leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/lionkingchuja/leet_code/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/lionkingchuja/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -115,15 +116,23 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lionkingchuja/leet_code/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/lionkingchuja/leet_code/tree/master/1285-balance-a-binary-search-tree) |
