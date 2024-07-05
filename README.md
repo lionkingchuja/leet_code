@@ -180,6 +180,7 @@ my code is preserved here for future practices
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lionkingchuja/leet_code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lionkingchuja/leet_code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
