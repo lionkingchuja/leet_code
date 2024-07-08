@@ -196,6 +196,7 @@ my code is preserved here for future practices
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/lionkingchuja/leet_code/tree/master/0176-second-highest-salary) |
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
 | [1837-daily-leads-and-partners](https://github.com/lionkingchuja/leet_code/tree/master/1837-daily-leads-and-partners) |
