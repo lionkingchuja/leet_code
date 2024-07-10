@@ -14,10 +14,7 @@ public:
             for (int i = 0; i < groupSize;i++) {
                 int currentCard = start + i;
                 if (m[currentCard] == 0) return false;
-                if (--m[currentCard] == 0) {
-                    //if (currentCard != pq.top()) return false;
-                    pq.pop();
-                }
+                if (--m[currentCard] == 0) pq.pop();
             }
         }
         return true;
