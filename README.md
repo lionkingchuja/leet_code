@@ -210,6 +210,7 @@ my code is preserved here for future practices
 | [0177-nth-highest-salary](https://github.com/lionkingchuja/leet_code/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/lionkingchuja/leet_code/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/lionkingchuja/leet_code/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/lionkingchuja/leet_code/tree/master/0185-department-top-three-salaries) |
 | [0608-tree-node](https://github.com/lionkingchuja/leet_code/tree/master/0608-tree-node) |
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
