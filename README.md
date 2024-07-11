@@ -213,6 +213,7 @@ my code is preserved here for future practices
 | [0185-department-top-three-salaries](https://github.com/lionkingchuja/leet_code/tree/master/0185-department-top-three-salaries) |
 | [0601-human-traffic-of-stadium](https://github.com/lionkingchuja/leet_code/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/lionkingchuja/leet_code/tree/master/0608-tree-node) |
+| [1268-market-analysis-i](https://github.com/lionkingchuja/leet_code/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
 | [1837-daily-leads-and-partners](https://github.com/lionkingchuja/leet_code/tree/master/1837-daily-leads-and-partners) |
