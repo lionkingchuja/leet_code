@@ -9,4 +9,4 @@ LEFT JOIN
 ON 
     t1.user_id = t2.buyer_id
 GROUP BY 
-    t1.user_id, t1.join_date;
+    t1.user_id;
