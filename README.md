@@ -221,6 +221,7 @@ my code is preserved here for future practices
 | [1837-daily-leads-and-partners](https://github.com/lionkingchuja/leet_code/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/lionkingchuja/leet_code/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/lionkingchuja/leet_code/tree/master/1948-rearrange-products-table) |
+| [2110-employees-with-missing-information](https://github.com/lionkingchuja/leet_code/tree/master/2110-employees-with-missing-information) |
 ## Recursion
 |  |
 | ------- |
