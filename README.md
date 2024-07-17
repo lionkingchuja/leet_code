@@ -236,6 +236,7 @@ my code is preserved here for future practices
 | [2024-calculate-special-bonus](https://github.com/lionkingchuja/leet_code/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/lionkingchuja/leet_code/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/lionkingchuja/leet_code/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/lionkingchuja/leet_code/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/lionkingchuja/leet_code/tree/master/2110-employees-with-missing-information) |
 ## Recursion
 |  |
