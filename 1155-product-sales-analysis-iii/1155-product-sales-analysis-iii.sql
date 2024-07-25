@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 WITH new AS (
     SELECT *,
-           dense_rank() OVER (PARTITION BY product_id ORDER BY year) AS rnk
+           rank() OVER (PARTITION BY product_id ORDER BY year) AS rnk
     FROM Sales
 )
 SELECT t1.product_id, t1.year AS first_year, t1.quantity, t1.price
