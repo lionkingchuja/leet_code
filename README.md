@@ -244,6 +244,7 @@ my code is preserved here for future practices
 | [1268-market-analysis-i](https://github.com/lionkingchuja/leet_code/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/lionkingchuja/leet_code/tree/master/1317-monthly-transactions-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lionkingchuja/leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lionkingchuja/leet_code/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
 | [1734-bank-account-summary-ii](https://github.com/lionkingchuja/leet_code/tree/master/1734-bank-account-summary-ii) |
