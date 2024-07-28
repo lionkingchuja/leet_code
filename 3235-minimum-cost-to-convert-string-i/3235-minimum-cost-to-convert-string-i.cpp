@@ -1,40 +1,41 @@
 class Solution {
 public:
     long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
-        const int inf = 1 << 29;
-        int g[26][26];
+        vector<vector<long long>> adj(26, vector<long long>(26, LLONG_MAX));
+
+        // Initialize the diagonal to 0
         for (int i = 0; i < 26; ++i) {
-            fill(begin(g[i]), end(g[i]), inf);
-            g[i][i] = 0;
+            adj[i][i] = 0;
         }
 
+        // Fill the adjacency matrix with given edges
         for (int i = 0; i < original.size(); ++i) {
-            int x = original[i] - 'a';
-            int y = changed[i] - 'a';
-            int z = cost[i];
-            g[x][y] = min(g[x][y], z);
+            int u = original[i] - 'a';
+            int v = changed[i] - 'a';
+            adj[u][v] = min(adj[u][v], (long long)cost[i]);
         }
-
+        // Floyd-Warshall algorithm
         for (int k = 0; k < 26; ++k) {
             for (int i = 0; i < 26; ++i) {
                 for (int j = 0; j < 26; ++j) {
-                    g[i][j] = min(g[i][j], g[i][k] + g[k][j]);
+                    if (adj[i][k] != LLONG_MAX && adj[k][j] != LLONG_MAX) {
+                        adj[i][j] = min(adj[i][j], adj[i][k] + adj[k][j]);
+                    }
                 }
             }
         }
 
-        long long ans = 0;
-        int n = source.length();
-        for (int i = 0; i < n; ++i) {
-            int x = source[i] - 'a';
-            int y = target[i] - 'a';
-            if (x != y) {
-                if (g[x][y] >= inf) {
-                    return -1;
-                }
-                ans += g[x][y];
+        // Calculate the minimum cost to convert the source to the target
+        long long totalCost = 0;
+        for (int i = 0; i < source.size(); ++i) {
+            int u = source[i] - 'a';
+            int v = target[i] - 'a';
+            if (adj[u][v] == LLONG_MAX) {
+                return -1; // Not possible to convert
             }
+            totalCost += adj[u][v];
         }
-        return ans;
+
+        return totalCost;
     }
 };
