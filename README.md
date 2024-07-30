@@ -245,6 +245,7 @@ my code is preserved here for future practices
 | [0608-tree-node](https://github.com/lionkingchuja/leet_code/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/lionkingchuja/leet_code/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/lionkingchuja/leet_code/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/lionkingchuja/leet_code/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/lionkingchuja/leet_code/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/lionkingchuja/leet_code/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/lionkingchuja/leet_code/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
