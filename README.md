@@ -252,6 +252,7 @@ my code is preserved here for future practices
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lionkingchuja/leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lionkingchuja/leet_code/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lionkingchuja/leet_code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/lionkingchuja/leet_code/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/lionkingchuja/leet_code/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/lionkingchuja/leet_code/tree/master/1837-daily-leads-and-partners) |
