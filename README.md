@@ -282,6 +282,7 @@ my code is preserved here for future practices
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lionkingchuja/leet_code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -291,6 +292,7 @@ my code is preserved here for future practices
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/lionkingchuja/leet_code/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
@@ -359,6 +361,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
 | ------- |
