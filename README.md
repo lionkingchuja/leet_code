@@ -241,6 +241,7 @@ my code is preserved here for future practices
 | [0595-big-countries](https://github.com/lionkingchuja/leet_code/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/lionkingchuja/leet_code/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/lionkingchuja/leet_code/tree/master/0608-tree-node) |
+| [0620-not-boring-movies](https://github.com/lionkingchuja/leet_code/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/lionkingchuja/leet_code/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/lionkingchuja/leet_code/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/lionkingchuja/leet_code/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
