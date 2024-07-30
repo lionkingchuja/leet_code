@@ -233,6 +233,7 @@ my code is preserved here for future practices
 | [0178-rank-scores](https://github.com/lionkingchuja/leet_code/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/lionkingchuja/leet_code/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/lionkingchuja/leet_code/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/lionkingchuja/leet_code/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/lionkingchuja/leet_code/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lionkingchuja/leet_code/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/lionkingchuja/leet_code/tree/master/0584-find-customer-referee) |
