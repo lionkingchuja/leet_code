@@ -156,6 +156,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
@@ -182,6 +183,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
@@ -392,6 +394,7 @@ my code is preserved here for future practices
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
