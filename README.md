@@ -159,6 +159,7 @@ my code is preserved here for future practices
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lionkingchuja/leet_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/lionkingchuja/leet_code/tree/master/1293-three-consecutive-odds) |
@@ -184,6 +185,7 @@ my code is preserved here for future practices
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lionkingchuja/leet_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -391,5 +393,10 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
