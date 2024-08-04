@@ -156,6 +156,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
@@ -183,6 +184,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
@@ -238,6 +240,7 @@ my code is preserved here for future practices
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [1642-water-bottles](https://github.com/lionkingchuja/leet_code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lionkingchuja/leet_code/tree/master/2645-pass-the-pillow) |
@@ -394,6 +397,7 @@ my code is preserved here for future practices
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
