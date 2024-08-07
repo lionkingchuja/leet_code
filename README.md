@@ -285,6 +285,7 @@ my code is preserved here for future practices
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/lionkingchuja/leet_code/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/lionkingchuja/leet_code/tree/master/1338-queries-quality-and-percentage) |
+| [1390-average-selling-price](https://github.com/lionkingchuja/leet_code/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lionkingchuja/leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lionkingchuja/leet_code/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/lionkingchuja/leet_code/tree/master/1541-top-travellers) |
