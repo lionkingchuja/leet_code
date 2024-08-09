@@ -159,6 +159,7 @@ my code is preserved here for future practices
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
@@ -190,6 +191,7 @@ my code is preserved here for future practices
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -250,6 +252,7 @@ my code is preserved here for future practices
 | ------- |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
+| [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/lionkingchuja/leet_code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lionkingchuja/leet_code/tree/master/2645-pass-the-pillow) |
@@ -364,6 +367,7 @@ my code is preserved here for future practices
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lionkingchuja/leet_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/lionkingchuja/leet_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
