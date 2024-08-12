@@ -313,6 +313,7 @@ my code is preserved here for future practices
 | [2087-confirmation-rate](https://github.com/lionkingchuja/leet_code/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/lionkingchuja/leet_code/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/lionkingchuja/leet_code/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lionkingchuja/leet_code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Recursion
 |  |
 | ------- |
