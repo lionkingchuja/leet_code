@@ -156,6 +156,7 @@ my code is preserved here for future practices
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
@@ -463,4 +464,8 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lionkingchuja/leet_code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
