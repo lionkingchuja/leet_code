@@ -161,6 +161,7 @@ my code is preserved here for future practices
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
@@ -210,17 +211,20 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
