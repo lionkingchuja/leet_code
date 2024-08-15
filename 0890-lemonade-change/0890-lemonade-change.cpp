@@ -12,7 +12,6 @@ public:
                 else return false;
             }
             else if(i==20){
-                cout<<m[5]<<" "<<m[10]<<endl;
                 if(m[10] >=1 and m[5]>=1){
                     m[10]--;
                     m[5]--;
