@@ -18,11 +18,7 @@ public:
                     if(m[5]==0) m.erase(5);
                     if(m[10]==0) m.erase(10);
                 }
-                else if(m.find(5) !=m.end()){
-                    if(m[5] >=3) m[5] -=3;
-                    else return false;
-                    if(m[5]==0) m.erase(5);
-                }
+                else if(m[5] >=3) m[5] -=3;
                 else return false;
             }
             else m[i]++;
