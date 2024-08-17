@@ -184,6 +184,7 @@ my code is preserved here for future practices
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1803-average-waiting-time](https://github.com/lionkingchuja/leet_code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/lionkingchuja/leet_code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
@@ -433,6 +434,7 @@ my code is preserved here for future practices
 | ------- |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/lionkingchuja/leet_code/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Indexed Tree
 |  |
 | ------- |
