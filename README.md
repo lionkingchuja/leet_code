@@ -156,6 +156,7 @@ my code is preserved here for future practices
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
@@ -218,6 +219,7 @@ my code is preserved here for future practices
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
