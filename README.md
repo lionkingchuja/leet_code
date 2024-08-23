@@ -158,6 +158,7 @@ my code is preserved here for future practices
 | ------- |
 | [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -411,6 +412,7 @@ my code is preserved here for future practices
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -443,6 +445,7 @@ my code is preserved here for future practices
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
