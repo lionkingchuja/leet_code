@@ -158,6 +158,7 @@ my code is preserved here for future practices
 | ------- |
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
@@ -440,6 +441,7 @@ my code is preserved here for future practices
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
