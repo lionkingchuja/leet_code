@@ -166,6 +166,7 @@ my code is preserved here for future practices
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
@@ -228,12 +229,14 @@ my code is preserved here for future practices
 | [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -386,6 +389,7 @@ my code is preserved here for future practices
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
 |  |
