@@ -158,6 +158,7 @@ my code is preserved here for future practices
 | ------- |
 | [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
@@ -277,6 +278,7 @@ my code is preserved here for future practices
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -407,6 +409,7 @@ my code is preserved here for future practices
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/lionkingchuja/leet_code/tree/master/0999-regions-cut-by-slashes) |
