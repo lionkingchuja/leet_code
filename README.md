@@ -160,6 +160,7 @@ my code is preserved here for future practices
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/lionkingchuja/leet_code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
@@ -238,6 +239,7 @@ my code is preserved here for future practices
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/lionkingchuja/leet_code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
