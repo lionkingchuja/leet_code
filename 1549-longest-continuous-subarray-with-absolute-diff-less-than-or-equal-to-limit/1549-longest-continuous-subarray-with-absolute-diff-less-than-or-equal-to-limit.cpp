@@ -27,9 +27,7 @@ public:
                 }
                 left++;
             }
-
-            int size = i - left + 1;
-            maxLength = max(maxLength, size);
+            maxLength = max(maxLength,i-left+1);
         }
 
         return maxLength;
