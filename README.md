@@ -186,6 +186,7 @@ my code is preserved here for future practices
 | [1333-sort-the-jumbled-numbers](https://github.com/lionkingchuja/leet_code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lionkingchuja/leet_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lionkingchuja/leet_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -359,6 +360,7 @@ my code is preserved here for future practices
 ## Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -448,6 +450,7 @@ my code is preserved here for future practices
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lionkingchuja/leet_code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -499,6 +502,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Breadth-First Search
 |  |
@@ -529,4 +533,12 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
