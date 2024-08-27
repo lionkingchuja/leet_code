@@ -150,6 +150,7 @@ my code is preserved here for future practices
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lionkingchuja/leet_code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
@@ -184,6 +185,7 @@ my code is preserved here for future practices
 | [1207-delete-nodes-and-return-forest](https://github.com/lionkingchuja/leet_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/lionkingchuja/leet_code/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lionkingchuja/leet_code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lionkingchuja/leet_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
@@ -453,6 +455,7 @@ my code is preserved here for future practices
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lionkingchuja/leet_code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 ## Merge Sort
@@ -476,6 +479,7 @@ my code is preserved here for future practices
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
