@@ -16,11 +16,6 @@ public:
             pq.pop();
             int node = curr.second;
             double curr_prob = curr.first;
-            // if (node == end_node) {
-            //     return curr_prob;
-            // }
-            // if (curr_prob < dis[node]) continue;
-            
             for (auto& neighbor : vp[node]) {
                 int next_node = neighbor.first;
                 double next_prob = neighbor.second;
