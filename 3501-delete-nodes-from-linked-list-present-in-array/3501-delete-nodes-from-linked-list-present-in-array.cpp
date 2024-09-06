@@ -17,16 +17,9 @@ public:
         ListNode* curr=head;
         ListNode* prev=NULL;
         while(curr!=NULL){
-            if(m.find(curr->val) != m.end()){
-                if(head==curr){
-                    prev=curr;
-                    curr=curr->next;
-                }
-                else {
-                    cout<<prev->val<<" ";
-                    prev->next=curr->next;
-                    curr=curr->next;
-                }
+            if(m.find(curr->val) != m.end() and head!=curr){
+                prev->next=curr->next;
+                curr=curr->next;
             }
             else {
                 prev=curr;
