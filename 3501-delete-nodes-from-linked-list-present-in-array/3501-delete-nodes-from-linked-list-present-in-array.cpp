@@ -11,22 +11,31 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        map<int,bool>m;
-        for(auto i:nums) m[i]=true;
-
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        while(curr!=NULL){
-            if(m.find(curr->val) != m.end() and head!=curr){
-                prev->next=curr->next;
-                curr=curr->next;
-            }
-            else {
-                prev=curr;
-                curr=curr->next;
-            }
+        // this is not mine previous is mine. but good approach
+        int max = -1;
+        for (int num : nums) {
+            max = num > max ? num : max;
         }
-        if(m.find(head->val)!=m.end()) return head->next;
-        else return head;
+        cout<<max<<endl;
+        vector<bool> freq(max + 1, false);
+
+        for (int num : nums) {
+            freq[num] = true;
+        }
+
+        ListNode* temp = new ListNode();
+        ListNode* current = temp;
+
+        while (head != nullptr) {
+            if (head->val >= freq.size() || !freq[head->val]) {
+                current->next = head;
+                current = current->next;
+            }
+            head = head->next;
+        }
+
+        current->next = nullptr;
+
+        return temp->next;
     }
 };
