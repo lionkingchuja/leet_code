@@ -290,6 +290,7 @@ my code is preserved here for future practices
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/lionkingchuja/leet_code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/lionkingchuja/leet_code/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lionkingchuja/leet_code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -383,6 +384,7 @@ my code is preserved here for future practices
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
