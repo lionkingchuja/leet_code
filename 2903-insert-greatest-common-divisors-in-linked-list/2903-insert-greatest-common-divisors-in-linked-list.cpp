@@ -12,27 +12,18 @@ class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(head==NULL) return NULL;
-        vector<int>v,ans;
-        ListNode* curr=head;
-        while(curr !=NULL){
-            v.push_back(curr->val);
-            curr=curr->next;
+
+        ListNode* node1=head;
+        ListNode* node2=head->next;
+
+        while(node2 !=NULL){
+            ListNode* new_node=new ListNode(__gcd(node1->val,node2->val));
+            node1->next=new_node;
+            new_node->next=node2;
+            
+            node1=node2;
+            node2=node2->next;
         }
-
-        for(int i=0;i<v.size()-1;i++){
-            ans.push_back(v[i]);
-            ans.push_back(__gcd(v[i],v[i+1]));
-        }
-        ans.push_back(v[v.size()-1]);
-
-        ListNode* mundi=new ListNode(ans[0]);
-        curr=mundi;
-
-        for(int i=1;i<ans.size();i++){
-            curr->next=new ListNode(ans[i]);
-            curr=curr->next;
-        }
-
-        return mundi;
+        return head;
     }
 };
