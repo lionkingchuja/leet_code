@@ -436,6 +436,7 @@ my code is preserved here for future practices
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/lionkingchuja/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
 | ------- |
