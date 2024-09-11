@@ -297,6 +297,7 @@ my code is preserved here for future practices
 | [0002-add-two-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lionkingchuja/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lionkingchuja/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/lionkingchuja/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lionkingchuja/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0237-delete-node-in-a-linked-list) |
@@ -397,6 +398,7 @@ my code is preserved here for future practices
 | ------- |
 | [0002-add-two-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lionkingchuja/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/lionkingchuja/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
