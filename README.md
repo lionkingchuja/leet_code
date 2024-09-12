@@ -203,6 +203,7 @@ my code is preserved here for future practices
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/lionkingchuja/leet_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/lionkingchuja/leet_code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/lionkingchuja/leet_code/tree/master/2035-count-sub-islands) |
@@ -237,6 +238,7 @@ my code is preserved here for future practices
 | [1207-delete-nodes-and-return-forest](https://github.com/lionkingchuja/leet_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -421,6 +423,7 @@ my code is preserved here for future practices
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lionkingchuja/leet_code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -445,6 +448,7 @@ my code is preserved here for future practices
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lionkingchuja/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -530,6 +534,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
