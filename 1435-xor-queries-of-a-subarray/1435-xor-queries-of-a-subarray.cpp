@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
+    vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries){
         vector<int>v;
         int i=0;
         while(i < queries.size()){
