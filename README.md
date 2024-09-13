@@ -169,6 +169,7 @@ my code is preserved here for future practices
 | [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/lionkingchuja/leet_code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lionkingchuja/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
@@ -261,6 +262,7 @@ my code is preserved here for future practices
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/lionkingchuja/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -492,6 +494,7 @@ my code is preserved here for future practices
 | ------- |
 | [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lionkingchuja/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/lionkingchuja/leet_code/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lionkingchuja/leet_code/tree/master/1496-lucky-numbers-in-a-matrix) |
