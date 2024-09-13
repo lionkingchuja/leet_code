@@ -334,6 +334,7 @@ my code is preserved here for future practices
 | ------- |
 | [0002-add-two-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/lionkingchuja/leet_code/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -406,6 +407,7 @@ my code is preserved here for future practices
 | [0002-add-two-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lionkingchuja/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lionkingchuja/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/lionkingchuja/leet_code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
