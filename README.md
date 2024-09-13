@@ -174,6 +174,7 @@ my code is preserved here for future practices
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -224,6 +225,7 @@ my code is preserved here for future practices
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lionkingchuja/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -274,6 +276,7 @@ my code is preserved here for future practices
 | [0056-merge-intervals](https://github.com/lionkingchuja/leet_code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
@@ -514,6 +517,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -540,6 +544,7 @@ my code is preserved here for future practices
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
