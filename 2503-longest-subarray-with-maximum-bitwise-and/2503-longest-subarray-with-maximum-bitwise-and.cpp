@@ -15,10 +15,11 @@ public:
                 count = 0;
             }
         }
+
         maxCount = max(maxCount, count);
-        if(maxCount == 0) {
-            return 1;
-        }
+        // if(maxCount == 0) {
+        //     return 1;
+        // }
         return maxCount;
     }
 };
