@@ -1,41 +1,25 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
-        vector<int> mapy(32, -2);
-        mapy[0] = -1;
+        int n = s.length();
+        int mask = 0, maxLength = 0;
+        unordered_map<int,int> m;
+        m[0] = -1;
+        
+        for (int i = 0; i < n; i++) {
 
-        int maxLen = 0;
-        int mask = 0;
-
-        for (int i = 0; i < s.size(); ++i) {
-            char ch = s[i];
-
-            switch (ch) {
-                case 'a':
-                    mask ^= 1;
-                    break;
-                case 'e':
-                    mask ^= 2;
-                    break;
-                case 'i':
-                    mask ^= 4;
-                    break;
-                case 'o':
-                    mask ^= 8;
-                    break;
-                case 'u':
-                    mask ^= 16;
-                    break;
-            }
-
-            int prev = mapy[mask];
-            if (prev == -2) {
-                mapy[mask] = i;
+            if (s[i] == 'a') mask ^= (1 << 0);
+            else if (s[i] == 'e') mask ^= (1 << 1);
+            else if (s[i] == 'i') mask ^= (1 << 2);
+            else if (s[i] == 'o') mask ^= (1 << 3);
+            else if (s[i] == 'u') mask ^= (1 << 4);
+            
+            if (m.find(mask) != m.end()) {
+                maxLength = max(maxLength, i  - m[mask]);
             } else {
-                maxLen = max(maxLen, i - prev);
+                m[mask] = i;
             }
         }
-
-        return maxLen;
+        return maxLength;
     }
 };
