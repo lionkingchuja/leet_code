@@ -175,6 +175,7 @@ my code is preserved here for future practices
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/lionkingchuja/leet_code/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -282,6 +283,7 @@ my code is preserved here for future practices
 | [0075-sort-colors](https://github.com/lionkingchuja/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/lionkingchuja/leet_code/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/lionkingchuja/leet_code/tree/master/0539-minimum-time-difference) |
@@ -299,6 +301,7 @@ my code is preserved here for future practices
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/lionkingchuja/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/lionkingchuja/leet_code/tree/master/0890-lemonade-change) |
@@ -431,6 +434,7 @@ my code is preserved here for future practices
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/lionkingchuja/leet_code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/lionkingchuja/leet_code/tree/master/0564-find-the-closest-palindrome) |
