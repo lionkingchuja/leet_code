@@ -348,6 +348,7 @@ my code is preserved here for future practices
 | [0002-add-two-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lionkingchuja/leet_code/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -424,6 +425,7 @@ my code is preserved here for future practices
 | [0050-powx-n](https://github.com/lionkingchuja/leet_code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -435,6 +437,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/lionkingchuja/leet_code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/lionkingchuja/leet_code/tree/master/0564-find-the-closest-palindrome) |
@@ -578,6 +581,7 @@ my code is preserved here for future practices
 | [0053-maximum-subarray](https://github.com/lionkingchuja/leet_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
@@ -653,4 +657,8 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lionkingchuja/leet_code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
