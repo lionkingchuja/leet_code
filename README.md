@@ -666,4 +666,5 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/lionkingchuja/leet_code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
