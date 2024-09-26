@@ -223,6 +223,7 @@ my code is preserved here for future practices
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lionkingchuja/leet_code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/lionkingchuja/leet_code/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/lionkingchuja/leet_code/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lionkingchuja/leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -253,6 +254,7 @@ my code is preserved here for future practices
 | [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lionkingchuja/leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -458,6 +460,7 @@ my code is preserved here for future practices
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lionkingchuja/leet_code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/lionkingchuja/leet_code/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -593,6 +596,7 @@ my code is preserved here for future practices
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/lionkingchuja/leet_code/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -675,6 +679,7 @@ my code is preserved here for future practices
 | [0386-lexicographical-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/lionkingchuja/leet_code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 ## Segment Tree
 |  |
 | ------- |
