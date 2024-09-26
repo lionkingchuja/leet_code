@@ -185,6 +185,7 @@ my code is preserved here for future practices
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/lionkingchuja/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/lionkingchuja/leet_code/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/lionkingchuja/leet_code/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/lionkingchuja/leet_code/tree/master/0890-lemonade-change) |
@@ -275,6 +276,7 @@ my code is preserved here for future practices
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
@@ -628,6 +630,7 @@ my code is preserved here for future practices
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lionkingchuja/leet_code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -648,6 +651,7 @@ my code is preserved here for future practices
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -671,4 +675,8 @@ my code is preserved here for future practices
 | [0386-lexicographical-numbers](https://github.com/lionkingchuja/leet_code/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/lionkingchuja/leet_code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
