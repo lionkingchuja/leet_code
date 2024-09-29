@@ -1,64 +1,65 @@
 class MyCircularDeque {
 public:
-    deque<int>d;  
-    int maxSize;  
-    
+    vector<int> v;
+    int size = 0;
+    int front = 0;  
+    int back = 0;
+    int capacity = 0;
+
     MyCircularDeque(int k) {
-        maxSize = k;
+        v = vector<int>(k, -1);
+        capacity = k;
+        front = 0;
+        back = k - 1;  
     }
     
     bool insertFront(int value) {
-        if (d.size() == maxSize) return false; 
-        d.push_front(value);
+        if (isFull()) return false;
+        front = (front - 1 + capacity) % capacity;  
+        v[front] = value;
+        size++;
         return true;
     }
     
     bool insertLast(int value) {
-        if (d.size() == maxSize) return false; 
-        d.push_back(value);
+        if (isFull()) return false;
+        back = (back + 1) % capacity; 
+        v[back] = value;
+        size++;
         return true;
     }
     
     bool deleteFront() {
-        if (d.empty()) return false; 
-        d.pop_front();
+        if (isEmpty()) return false;
+        v[front] = -1;  
+        front = (front + 1) % capacity;  
+        size--;
         return true;
     }
     
     bool deleteLast() {
-        if (d.empty()) return false; 
-        d.pop_back();
+        if (isEmpty()) return false;
+        v[back] = -1;  
+        back = (back - 1 + capacity) % capacity;  
+        size--;
         return true;
     }
     
     int getFront() {
-        if (d.empty()) return -1; 
-        return d.front();
+        if (isEmpty()) return -1;
+        return v[front];
     }
     
     int getRear() {
-        if (d.empty()) return -1;  
-        return d.back();
+        if (isEmpty()) return -1;
+        return v[back];
     }
     
     bool isEmpty() {
-        return d.empty();
+        return size == 0;
     }
     
     bool isFull() {
-        return d.size() == maxSize;
+        return size == capacity;
     }
 };
-
-/**
- * Your MyCircularDeque object will be instantiated and called as such:
- * MyCircularDeque* obj = new MyCircularDeque(k);
- * bool param_1 = obj->insertFront(value);
- * bool param_2 = obj->insertLast(value);
- * bool param_3 = obj->deleteFront();
- * bool param_4 = obj->deleteLast();
- * int param_5 = obj->getFront();
- * int param_6 = obj->getRear();
- * bool param_7 = obj->isEmpty();
- * bool param_8 = obj->isFull();
- */
