@@ -163,6 +163,7 @@ my code is preserved here for future practices
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lionkingchuja/leet_code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/lionkingchuja/leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lionkingchuja/leet_code/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/lionkingchuja/leet_code/tree/master/0048-rotate-image) |
@@ -232,6 +233,7 @@ my code is preserved here for future practices
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lionkingchuja/leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lionkingchuja/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
