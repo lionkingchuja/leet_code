@@ -238,6 +238,7 @@ my code is preserved here for future practices
 | [0229-majority-element-ii](https://github.com/lionkingchuja/leet_code/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/lionkingchuja/leet_code/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
@@ -329,6 +330,7 @@ my code is preserved here for future practices
 | [0206-reverse-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/lionkingchuja/leet_code/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/lionkingchuja/leet_code/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/lionkingchuja/leet_code/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0908-middle-of-the-linked-list) |
@@ -640,6 +642,7 @@ my code is preserved here for future practices
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/lionkingchuja/leet_code/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lionkingchuja/leet_code/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lionkingchuja/leet_code/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -694,4 +697,8 @@ my code is preserved here for future practices
 | ------- |
 | [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lionkingchuja/leet_code/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/lionkingchuja/leet_code/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
