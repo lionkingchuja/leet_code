@@ -226,6 +226,7 @@ my code is preserved here for future practices
 | [1803-average-waiting-time](https://github.com/lionkingchuja/leet_code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/lionkingchuja/leet_code/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lionkingchuja/leet_code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/lionkingchuja/leet_code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lionkingchuja/leet_code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lionkingchuja/leet_code/tree/master/2155-find-missing-observations) |
@@ -272,6 +273,7 @@ my code is preserved here for future practices
 | [1694-make-sum-divisible-by-p](https://github.com/lionkingchuja/leet_code/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lionkingchuja/leet_code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -599,6 +601,7 @@ my code is preserved here for future practices
 | [0948-sort-an-array](https://github.com/lionkingchuja/leet_code/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lionkingchuja/leet_code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
