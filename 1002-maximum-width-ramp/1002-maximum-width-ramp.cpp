@@ -1,26 +1,20 @@
 class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
-        int n = nums.size();
-        stack<int> s;
-        
-        // Step 1: Build a decreasing stack of indices
-        for (int i = 0; i < n; ++i) {
-            if (s.empty() || nums[s.top()] > nums[i]) {
-                s.push(i);
-            }
+        stack<int>st;
+        st.push(0);
+        for(int i=1;i<nums.size();i++){
+            if(!st.empty() and nums[st.top()] > nums[i]) st.push(i);
         }
         
-        int maxWidth = 0;
-        
-        // Step 2: Traverse from the end and find maximum width ramp
-        for (int j = n - 1; j >= 0; --j) {
-            while (!s.empty() && nums[s.top()] <= nums[j]) {
-                maxWidth = max(maxWidth, j - s.top());
-                s.pop();
+        int ans=INT_MIN;
+        for(int i=nums.size()-1;i>=0;i--){
+            while(!st.empty() and nums[st.top()] <= nums[i]){
+                ans=max(ans,i-st.top());
+                st.pop();
             }
+            if(st.empty()) break;
         }
-        
-        return maxWidth;
+        return ans;
     }
 };
