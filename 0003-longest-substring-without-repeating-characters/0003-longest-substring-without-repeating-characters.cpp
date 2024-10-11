@@ -5,7 +5,6 @@ public:
         int i=0;
         int j=0;
         int ans=0;
-        string temp="";
         while(j <s.size()){
             m[s[j]]++;
             if(m[s[j]]==1) ans=max(ans,j-i+1);
