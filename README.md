@@ -246,6 +246,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lionkingchuja/leet_code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lionkingchuja/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/lionkingchuja/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lionkingchuja/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
@@ -480,6 +481,7 @@ my code is preserved here for future practices
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lionkingchuja/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lionkingchuja/leet_code/tree/master/0273-integer-to-english-words) |
@@ -667,6 +669,7 @@ my code is preserved here for future practices
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lionkingchuja/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/lionkingchuja/leet_code/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/lionkingchuja/leet_code/tree/master/0966-binary-subarrays-with-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
