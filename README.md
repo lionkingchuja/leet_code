@@ -233,6 +233,7 @@ my code is preserved here for future practices
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lionkingchuja/leet_code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -298,6 +299,7 @@ my code is preserved here for future practices
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/lionkingchuja/leet_code/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -335,6 +337,7 @@ my code is preserved here for future practices
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lionkingchuja/leet_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/lionkingchuja/leet_code/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -350,6 +353,7 @@ my code is preserved here for future practices
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/lionkingchuja/leet_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lionkingchuja/leet_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -605,6 +609,7 @@ my code is preserved here for future practices
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lionkingchuja/leet_code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
@@ -666,6 +671,7 @@ my code is preserved here for future practices
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/lionkingchuja/leet_code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/lionkingchuja/leet_code/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
