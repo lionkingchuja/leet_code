@@ -442,6 +442,7 @@ my code is preserved here for future practices
 | [1155-product-sales-analysis-iii](https://github.com/lionkingchuja/leet_code/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/lionkingchuja/leet_code/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/lionkingchuja/leet_code/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/lionkingchuja/leet_code/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/lionkingchuja/leet_code/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/lionkingchuja/leet_code/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/lionkingchuja/leet_code/tree/master/1301-reformat-department-table) |
