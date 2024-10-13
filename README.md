@@ -458,6 +458,7 @@ my code is preserved here for future practices
 | [1801-average-time-of-process-per-machine](https://github.com/lionkingchuja/leet_code/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/lionkingchuja/leet_code/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/lionkingchuja/leet_code/tree/master/1837-daily-leads-and-partners) |
+| [1877-find-followers-count](https://github.com/lionkingchuja/leet_code/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/lionkingchuja/leet_code/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lionkingchuja/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/lionkingchuja/leet_code/tree/master/1942-primary-department-for-each-employee) |
