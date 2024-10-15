@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long minimumSteps(string s) {
+        //logic by nithul.
         int i=0;
         int j=s.size()-1;
         long long ans=0;
