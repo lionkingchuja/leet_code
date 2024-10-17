@@ -6,7 +6,7 @@ public:
         int swap1=-1;
         int swap2=-1;
         for(int i=s.size()-2;i >=0;i--){
-            if(max_index ==-1 or s[i] > s[max_index]){
+            if(s[i] > s[max_index]){
                 max_index=i;
             }
             else if(s[i] < s[max_index]){
