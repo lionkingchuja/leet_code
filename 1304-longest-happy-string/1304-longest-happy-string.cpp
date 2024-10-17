@@ -1,48 +1,85 @@
-#include <queue>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     string longestDiverseString(int a, int b, int c) {
-        // Priority queue to store the characters and their counts.
-        priority_queue<pair<int, char>> pq;
-        if (a > 0) pq.push({a, 'a'});
-        if (b > 0) pq.push({b, 'b'});
-        if (c > 0) pq.push({c, 'c'});
+    string s="";
+    int cnt3=0;
+    int cnt2=0;
+    int cnt1=0;
+    int len=a+b+c;
 
-        string result = "";
-
-        while (!pq.empty()) {
-            // Get the character with the most count.
-            auto [count1, char1] = pq.top();
-            pq.pop();
-
-            // Check if the last two characters in result are the same.
-            if (result.size() >= 2 && result.back() == char1 && result[result.size() - 2] == char1) {
-                if (pq.empty()) break;  // No valid characters left.
-
-                // Get the second most character.
-                auto [count2, char2] = pq.top();
-                pq.pop();
-
-                // Add the second character to avoid consecutive repetition.
-                result += char2;
-                count2--;
-
-                if (count2 > 0) pq.push({count2, char2});
-
-                // Push back the most frequent character for later use.
-                pq.push({count1, char1});
-            } else {
-                // If no repetition issue, add the most frequent character.
-                result += char1;
-                count1--;
-
-                if (count1 > 0) pq.push({count1, char1});
+    for(int i=0;i<len;i++){
+        if((a==0 and b==0) or (b==0 and c==0) or (c==0 and a==0)) break;
+        if(c >=b and c >=a){
+            s +="c";
+            cnt3++;
+            c -=1;
+            if(cnt3 ==2){
+                cnt3=0;
+                if(b >=a){
+                    s +="b";
+                    b -=1;
+                    cnt2++;
+                }
+                else{
+                    s +="a";
+                    a -=1;
+                    cnt1++;
+                }
             }
         }
-
-        return result;
+        else if(a >=b and a >=c){
+            s +="a";
+            cnt1++;
+            a -=1;
+            if(cnt1 ==2){
+                cnt1=0;
+                if(b >=c){
+                    s +="b";
+                    b -=1;
+                    cnt2++;
+                }
+                else{
+                    s +="c";
+                    c -=1;
+                    cnt3++;
+                }
+            }
+        }
+        else if(b >=a and b>=c){
+            s +="b";
+            cnt2++;
+            b -=1;
+            if(cnt2 ==2){
+                cnt2=0;
+                if(a >=c){
+                    s +="a";
+                    a -=1;
+                    cnt1++;
+                }
+                else{
+                    s +="c";
+                    c -=1;
+                    cnt3++;
+                }
+            }
+        }
     }
+    if(s.size()==len) return s;
+    if(a==0 and b==0){
+        s +="c";
+        if(s.size()==len) return s;
+        s +="c";
+    }
+    else if(b==0 and  c==0){
+        s +="a";
+        if(s.size()==len) return s;
+        s +="a";
+    }
+    else {
+        s +="b";
+        if(s.size()==len) return s;
+        s +="b";
+    }
+    return s;
+  }
 };
