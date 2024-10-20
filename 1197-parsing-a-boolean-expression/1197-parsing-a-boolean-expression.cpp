@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool parseBoolExpr(string s) {
-    stack<char> st1;  // Operator stack
-    stack<char> st2;  // Value stack
+    stack<char> st1;  
+    stack<char> st2;  
     
     for (int i = 0; i < s.size(); i++) {
         if (s[i] == '&' || s[i] == '|' || s[i] == '!') {
-            st1.push(s[i]);  // Push operators onto the operator stack
+            st1.push(s[i]);  
         }
         else if (s[i] == '(') {
-            st2.push(s[i]);  // Push opening bracket onto the value stack
+            st2.push(s[i]);  
         }
         else if (s[i] == ')') {
-            // Process the current expression enclosed by '(' and ')'
+           
             char op = st1.top();
             st1.pop();
             vector<char> vals;
@@ -47,17 +47,13 @@ public:
             else if (op == '!') {
                 result = (vals[0] == 't') ? 'f' : 't';
             }
-            
-            // Push the result back onto the value stack
             st2.push(result);
         } 
         else {
-            st2.push(s[i]);  // Push boolean values ('t' or 'f') onto the value stack
+            st2.push(s[i]); 
         }
     }
-    
-    // The final result will be at the top of the value stack
-    return st2.top() == 't';
+    return st2.top() == 't'; // converting in to bool
 }
 
 };
