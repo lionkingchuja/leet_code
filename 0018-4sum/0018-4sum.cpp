@@ -8,7 +8,7 @@ public:
                 int k=j+1;
                 int l=nums.size()-1;
                 while(k <l){
-                    long long temp=nums[i]+nums[j]+nums[k]+nums[l];
+                    long long temp=(long long)nums[i]+nums[j]+nums[k]+nums[l];
                     if(temp==target){
                         s.insert({nums[i],nums[j],nums[k],nums[l]});
                         k++;
