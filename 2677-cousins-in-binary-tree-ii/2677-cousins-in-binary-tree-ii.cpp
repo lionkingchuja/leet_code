@@ -23,18 +23,18 @@ public:
             int level_sum = 0;
             while (size--){
                 auto curr= q.front();
-                curr->val=prev-curr->val;
+                curr->val=prev-curr->val;// curr val updation
                 int temp=0;
                 if(curr->left) temp +=curr->left->val;
                 if(curr->right) temp +=curr->right->val;
                 level_sum +=temp;
                 q.pop();
                 if(curr->left !=NULL) {
-                    curr->left->val=temp;
+                    curr->left->val=temp;// root node ko update
                     q.push(curr->left);
                 }
                 if(curr->right !=NULL){
-                    curr->right->val=temp;
+                    curr->right->val=temp;// root node ko update
                     q.push(curr->right);
                 }
             }
