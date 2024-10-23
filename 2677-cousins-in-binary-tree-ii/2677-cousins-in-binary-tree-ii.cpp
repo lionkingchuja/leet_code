@@ -14,44 +14,34 @@ public:
     TreeNode* replaceValueInTree(TreeNode* root) {
         if (!root) return nullptr;
 
-        vector<int>total_sum;
         queue<TreeNode*>q;
         q.push(root);
-        while(!q.empty()){
-            int size = q.size();
-            int temp = 0;
-            while (size--) {
-                auto curr= q.front();
-                temp +=curr->val;
-                q.pop();
-                if(curr->left !=NULL) q.push(curr->left);
-                if(curr->right !=NULL) q.push(curr->right);
-            }
-            total_sum.push_back(temp);                
-        }
-
-        q.push(root);
+        int prev=0;
         root->val=0;
-        int i=0;
         while(!q.empty()){
             int size = q.size();
-            while(size--){
-                auto curr=q.front();
-                int sum=0;
+            int level_sum = 0;
+            while (size--){
+                auto curr= q.front();
+                curr->val=prev-curr->val;
+                int temp=0;
+                if(curr->left) temp +=curr->left->val;
+                if(curr->right) temp +=curr->right->val;
+                level_sum +=temp;
                 q.pop();
-                if(curr->left) sum +=curr->left->val;
-                if(curr->right) sum +=curr->right->val;
-                if(curr->left){
-                    curr->left->val=total_sum[i+1]-sum;
+                if(curr->left !=NULL) {
+                    curr->left->val=temp;
                     q.push(curr->left);
                 }
-                if(curr->right){
-                    curr->right->val=total_sum[i+1]-sum;
+                if(curr->right !=NULL){
+                    curr->right->val=temp;
                     q.push(curr->right);
                 }
             }
-            i++;               
+            prev=level_sum;                
         }
+
+       
         return root;
     }
 };
