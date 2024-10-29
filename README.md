@@ -180,6 +180,7 @@ my code is preserved here for future practices
 | [0088-merge-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lionkingchuja/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lionkingchuja/leet_code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lionkingchuja/leet_code/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/lionkingchuja/leet_code/tree/master/0229-majority-element-ii) |
@@ -319,6 +320,7 @@ my code is preserved here for future practices
 | [0035-search-insert-position](https://github.com/lionkingchuja/leet_code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/lionkingchuja/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lionkingchuja/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
