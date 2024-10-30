@@ -225,6 +225,7 @@ my code is preserved here for future practices
 | [1694-make-sum-divisible-by-p](https://github.com/lionkingchuja/leet_code/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/lionkingchuja/leet_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lionkingchuja/leet_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lionkingchuja/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/lionkingchuja/leet_code/tree/master/1803-average-waiting-time) |
@@ -327,6 +328,7 @@ my code is preserved here for future practices
 | [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lionkingchuja/leet_code/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lionkingchuja/leet_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
@@ -369,6 +371,7 @@ my code is preserved here for future practices
 | [1304-longest-happy-string](https://github.com/lionkingchuja/leet_code/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lionkingchuja/leet_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/lionkingchuja/leet_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lionkingchuja/leet_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -703,6 +706,7 @@ my code is preserved here for future practices
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lionkingchuja/leet_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/lionkingchuja/leet_code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
