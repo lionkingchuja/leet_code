@@ -189,6 +189,7 @@ my code is preserved here for future practices
 | [0523-continuous-subarray-sum](https://github.com/lionkingchuja/leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lionkingchuja/leet_code/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/lionkingchuja/leet_code/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lionkingchuja/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/lionkingchuja/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lionkingchuja/leet_code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -325,6 +326,7 @@ my code is preserved here for future practices
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lionkingchuja/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lionkingchuja/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lionkingchuja/leet_code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lionkingchuja/leet_code/tree/master/0731-my-calendar-ii) |
