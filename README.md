@@ -530,6 +530,7 @@ my code is preserved here for future practices
 | [0567-permutation-in-string](https://github.com/lionkingchuja/leet_code/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lionkingchuja/leet_code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/lionkingchuja/leet_code/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/lionkingchuja/leet_code/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lionkingchuja/leet_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/lionkingchuja/leet_code/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -837,4 +838,8 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lionkingchuja/leet_code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/lionkingchuja/leet_code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
