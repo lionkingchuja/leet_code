@@ -581,6 +581,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lionkingchuja/leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/lionkingchuja/leet_code/tree/master/0338-counting-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lionkingchuja/leet_code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/lionkingchuja/leet_code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lionkingchuja/leet_code/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -720,6 +721,7 @@ my code is preserved here for future practices
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lionkingchuja/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/lionkingchuja/leet_code/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/lionkingchuja/leet_code/tree/master/0338-counting-bits) |
 | [1240-stone-game-ii](https://github.com/lionkingchuja/leet_code/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
