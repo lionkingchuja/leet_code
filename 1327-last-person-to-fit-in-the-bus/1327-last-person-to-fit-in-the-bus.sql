@@ -1,8 +1,10 @@
-# Write your MySQL query statement below
-select x.person_name
-from(
-select Turn,person_Id,person_name,Weight,sum(Weight) over(order by turn) as Total
-from Queue) as x
-where x.Total <=1000
-order by x.Total desc
+#Write your MySQL query statement below
+select person_name
+from (
+select person_name,weight,turn,
+sum(weight) over(order by turn) as sm
+from Queue
+) as sub
+where sm <=1000
+order by sm desc
 limit 1;
