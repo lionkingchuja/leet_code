@@ -11,15 +11,15 @@ public:
             int len=q.size();
             count++;
             while(len--){
-            int curr=q.front();
-            q.pop();
+                int curr=q.front();
+                q.pop();
                 for(auto i:adj[curr]){
-                if(visited[i]==false){
-                    if(i==n-1) return count;
-                    visited[i]=true;
-                    q.push(i);
+                    if(visited[i]==false){
+                        if(i==n-1) return count;
+                        visited[i]=true;
+                        q.push(i);
+                    }
                 }
-            }
             }
             
         }
