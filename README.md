@@ -156,6 +156,7 @@ my code is preserved here for future practices
 | [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lionkingchuja/leet_code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lionkingchuja/leet_code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
@@ -246,6 +247,7 @@ my code is preserved here for future practices
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lionkingchuja/leet_code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lionkingchuja/leet_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lionkingchuja/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -669,6 +671,7 @@ my code is preserved here for future practices
 | [1972-rotating-the-box](https://github.com/lionkingchuja/leet_code/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/lionkingchuja/leet_code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lionkingchuja/leet_code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Topological Sort
@@ -693,6 +696,7 @@ my code is preserved here for future practices
 | [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lionkingchuja/leet_code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
@@ -724,6 +728,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
@@ -781,6 +786,7 @@ my code is preserved here for future practices
 | [1484-linked-list-in-binary-tree](https://github.com/lionkingchuja/leet_code/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/lionkingchuja/leet_code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/lionkingchuja/leet_code/tree/master/2035-count-sub-islands) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lionkingchuja/leet_code/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lionkingchuja/leet_code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lionkingchuja/leet_code/tree/master/2677-cousins-in-binary-tree-ii) |
