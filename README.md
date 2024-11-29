@@ -159,6 +159,7 @@ my code is preserved here for future practices
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lionkingchuja/leet_code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -255,6 +256,7 @@ my code is preserved here for future practices
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lionkingchuja/leet_code/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/lionkingchuja/leet_code/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/lionkingchuja/leet_code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -673,6 +675,7 @@ my code is preserved here for future practices
 | [2132-convert-1d-array-into-2d-array](https://github.com/lionkingchuja/leet_code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lionkingchuja/leet_code/tree/master/2472-build-a-matrix-with-conditions) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Topological Sort
 |  |
@@ -699,6 +702,7 @@ my code is preserved here for future practices
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lionkingchuja/leet_code/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
@@ -729,6 +733,7 @@ my code is preserved here for future practices
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/lionkingchuja/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lionkingchuja/leet_code/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
@@ -790,6 +795,7 @@ my code is preserved here for future practices
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lionkingchuja/leet_code/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lionkingchuja/leet_code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lionkingchuja/leet_code/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lionkingchuja/leet_code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Strongly Connected Component
 |  |
