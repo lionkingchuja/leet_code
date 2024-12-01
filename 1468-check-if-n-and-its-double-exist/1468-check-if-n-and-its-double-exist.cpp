@@ -1,10 +1,11 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        int n=arr.size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i!=j and arr[i]==2*arr[j]) return true;
+        unordered_map<int,int>m;
+        for(int i=0;i<arr.size();i++) m[2*arr[i]]=i;
+        for(int i=0;i<arr.size();i++){
+            if(m.find(arr[i]) !=m.end()){
+                if(m[arr[i]]!=i) return true;
             }
         }
         return false;
