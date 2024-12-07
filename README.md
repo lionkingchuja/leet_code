@@ -335,6 +335,7 @@ my code is preserved here for future practices
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1972-rotating-the-box](https://github.com/lionkingchuja/leet_code/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lionkingchuja/leet_code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/lionkingchuja/leet_code/tree/master/3195-separate-black-and-white-balls) |
@@ -583,6 +584,7 @@ my code is preserved here for future practices
 | [2163-kth-distinct-string-in-an-array](https://github.com/lionkingchuja/leet_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lionkingchuja/leet_code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lionkingchuja/leet_code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/lionkingchuja/leet_code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
