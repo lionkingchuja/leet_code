@@ -265,6 +265,7 @@ my code is preserved here for future practices
 | [2755-extra-characters-in-a-string](https://github.com/lionkingchuja/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/lionkingchuja/leet_code/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lionkingchuja/leet_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lionkingchuja/leet_code/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lionkingchuja/leet_code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -556,6 +557,7 @@ my code is preserved here for future practices
 | [0859-design-circular-deque](https://github.com/lionkingchuja/leet_code/tree/master/0859-design-circular-deque) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lionkingchuja/leet_code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -726,6 +728,7 @@ my code is preserved here for future practices
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lionkingchuja/leet_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lionkingchuja/leet_code/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/lionkingchuja/leet_code/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -805,6 +808,7 @@ my code is preserved here for future practices
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/lionkingchuja/leet_code/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/lionkingchuja/leet_code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -857,10 +861,12 @@ my code is preserved here for future practices
 | [0729-my-calendar-i](https://github.com/lionkingchuja/leet_code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lionkingchuja/leet_code/tree/master/0731-my-calendar-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2868-continuous-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/2868-continuous-subarrays) |
 ## Number Theory
 |  |
 | ------- |
