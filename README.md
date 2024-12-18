@@ -224,6 +224,7 @@ my code is preserved here for future practices
 | [1511-count-number-of-teams](https://github.com/lionkingchuja/leet_code/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lionkingchuja/leet_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lionkingchuja/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lionkingchuja/leet_code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lionkingchuja/leet_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lionkingchuja/leet_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/lionkingchuja/leet_code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -611,6 +612,7 @@ my code is preserved here for future practices
 | [1197-parsing-a-boolean-expression](https://github.com/lionkingchuja/leet_code/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lionkingchuja/leet_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lionkingchuja/leet_code/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lionkingchuja/leet_code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/lionkingchuja/leet_code/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lionkingchuja/leet_code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lionkingchuja/leet_code/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -901,6 +903,7 @@ my code is preserved here for future practices
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/lionkingchuja/leet_code/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lionkingchuja/leet_code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
 | ------- |
